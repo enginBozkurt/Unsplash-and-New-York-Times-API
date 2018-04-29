@@ -1,4 +1,7 @@
 # Unsplash-and-New-York-Times-API
+
+![screenshot_39](https://user-images.githubusercontent.com/30608533/39411333-af94ad9a-4c10-11e8-84b7-988097d4a720.jpg)
+
 When you search a keyword, the application fetches the related
 picture from Unsplash API and related articles from New York 
 Times API.
